@@ -1,0 +1,22 @@
+{
+  "name": "aws-zipper2",
+  "version": "1.0.0",
+  "description": "Zip files from and to an Amazon AWS S3 Bucket.",
+  "main": "runme.js",
+  "repository": "https://github.com/brysondev/aws-zipper2.git",
+  "keywords": [
+    "zip",
+    "amazon",
+    "aws",
+    "s3"
+  ],
+  "author": "brysondev",
+  "license": "GPL-3.0",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "aws-sdk": "^2.1426.0",
+    "path": "^0.12.7",
+    "s3-zip": "^3.2.1",
+    "xml-stream": "^0.4.5"
+  }
+}
